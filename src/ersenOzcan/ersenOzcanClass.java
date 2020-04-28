@@ -22,7 +22,7 @@ public class ersenOzcanClass {
 
 
          */
-        
+        System.out.println("something");
     }
 
 }
