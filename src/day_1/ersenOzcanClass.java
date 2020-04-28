@@ -1,4 +1,4 @@
-package ersenOzcan;
+package day_1;
 
 public class ersenOzcanClass {
     public static void main(String[] args) {
